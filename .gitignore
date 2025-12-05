@@ -35,6 +35,6 @@ __pycache__/
 .env
 
 # Large model / binary artifacts (optional but recommended)
-*.pkl
+
 *.h5
 *.joblib
